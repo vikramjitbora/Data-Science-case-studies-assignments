@@ -1,7 +1,6 @@
 # Data-Science-case-studies-assignments
-Portfolio of data science projects completed by me as part of academic requirements of PGDDS, IIIT Bangalore
+Portfolio of data science projects completed as part of academic requirements of PGDDS, IIIT Bangalore
 
-_Note: Data used in the projects is for demonstration purposes only._
 
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt.
