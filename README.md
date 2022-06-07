@@ -4,7 +4,9 @@ Portfolio of data science projects completed as part of academic requirements of
 
 ## Contents
 
-- [Credit Risk Analysis EDA](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+- [Credit Risk Analysis EDA](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): Analysis of loan dataset and performing Exploratory Data Analysis on a loan dataset to develop understanding of risk analytics in banking and financial services and understand how the data is used to minimise the risk of losing money while lending to customers.
+
+
 
 - [Bike Sharing Prediction](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 
